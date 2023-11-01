@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "Antídoto Contra Ansiedade e Estresse",
+        "duration": "7 minutos",
+        "audioUrl": "audio/meditation/antidoto.mp3",
+        "imgUrl": "assets/images/medit_relax.jpg"
+    },
+
+    {
+        "id": 3,
+        "title": "Meditando nos 5 Sentidos",
+        "duration": "8 minutos",
+        "audioUrl": "audio/meditation/cinco_sentidos.mp3",
+        "imgUrl": "assets/images/medit_relax.jpg"
+    },
+
+    {
+        "id": 4,
+        "title": "Faça o Contrário",
+        "duration": "14 minutos",
+        "audioUrl": "audio/meditation/contrario.mp3",
+        "imgUrl": "assets/images/medit_relax.jpg"
+    },
+
+    {
+        "id": 5,
+        "title": "Pensamentos de Felicidade",
+        "duration": "6 minutos",
+        "audioUrl": "audio/meditation/felicidade.mp3",
+        "imgUrl": "assets/images/medit_relax.jpg"
+    },
+
+    {
+        "id": 6,
+        "title": "Tudo Muda",
+        "duration": "12 minutos",
+        "audioUrl": "audio/meditation/tudo_muda.mp3",
+        "imgUrl": "assets/images/medit_relax.jpg"
+    }
+]
